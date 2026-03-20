@@ -129,7 +129,7 @@ Feel free to connect with me for feedback or collaboration!
 Email :- prabhatsingh.connect01@gmail.com
 
 
-[Linkedin](linkedin.com/in/prabhat-singh-a6a58132a)
+[Linkedin](https://www.linkedin.com/in/prabhat-singh-a6a58132a/)
 
 ---
 # ML_Models
