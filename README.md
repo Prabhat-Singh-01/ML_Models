@@ -38,6 +38,7 @@ In this project, a **Support Vector Machine (SVM)** model is built and deployed 
 ├── notebook/              # Jupyter notebook for analysis & training
 ├── model/                 # Saved model file (.pkl)
 ├── app.py                 # Streamlit app for deployment
+├── requirements.txt       # Required libraries
 └── README.md              # Project documentation
 ```
 
